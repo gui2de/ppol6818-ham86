@@ -1,5 +1,5 @@
 * Homar A. Maurás Rodríguez
-* PPOL 6818 - Assignment Stata 3
+* PPOL 6818 - Assignment Stata 4
 * Simulations: Sampling Noise, Power, and Bias Adjustment
 
 if c(username)=="homi" {
